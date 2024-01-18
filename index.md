@@ -31,6 +31,8 @@
 - WordPress
 - AWS
 
+<div style="page-break-before:always"></div>
+
 ## 職務経歴
 ### 2022/11 - 現在 : booost technologies株式会社
 #### 役職
@@ -61,6 +63,8 @@
 - **使用技術**: Material UI, React, TypeScript, Laravel, Docker, GitHub, MySQL, Tailwind, Nuxt.js, EC-CUBE, GitHub Actions, HTML, CSS, Bootstrap, JavaScript, Vue.js, jQuery
 - **チーム規模**: 1〜2名
 
+<div style="page-break-before:always"></div>
+
 ### 2021/10 - 2022/12: 株式会社DX Strategy
 #### 役職
 - 業務委託(WEBエンジニア)
@@ -83,6 +87,8 @@
 - 営業総合職
 #### 職務内容
 病院、クリニック向けの医療機器の販売営業
+
+<div style="page-break-before:always"></div>
 
 ### 今後やりたいこと
 - チームリーダー
