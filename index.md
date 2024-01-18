@@ -39,7 +39,8 @@
 - WEBアプリエンジニア
 #### 職務内容
 - **プロジェクト**: 自社サービスのbooost GXの開発
-- **業務内容**: フロントエンド、APIの開発、DB設計, Vue.js2系から3系へのバージョンアップとTypeScript導入をリード
+- **業務内容**  
+フロントエンド、APIの開発、DB設計, Vue.js2系から3系へのバージョンアップとTypeScript導入をリード
 - **使用技術**: PHP(Laravel), jQuery, Vue.js, Git, Docker, TypeScript, MySQL,AWS
 - **チーム規模**: 全10名
 
@@ -70,7 +71,7 @@
 - 業務委託(WEBエンジニア)
 #### 職務内容
 - **プロジェクト**: 美容マッチングサイトの新規開発
-- **業務内容**: 
+- **業務内容**  
 詳細設計、データベース設計、開発  
 ログイン認証の設計、開発  
 - **使用技術**: HTML, CSS, Tailwind, Vue.js, PHP, Laravel, MySQL, Nginx, AWS, GitHub, Docker
