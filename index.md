@@ -24,6 +24,7 @@
 - Nuxt.js
 - React
 - Next.js
+- Storybook
 - Docker
 - MySQL
 - MariaDB
@@ -65,7 +66,7 @@
 - 精神病院向け電子カルテ開発
 - **業務内容**  
   フロントエンド、API の開発、DB 設計
-- **使用技術**: PHP(Laravel), Nuxt.js, Next.js Git, Docker, TypeScript, MySQL,AWS
+- **使用技術**: PHP(Laravel), Nuxt.js, Next.js Git, Docker, TypeScript, Storybook, MySQL,AWS
 - **チーム規模**: 5 名
 
 ### 2021/02 - 2022/10: ファーストネットジャパン株式会社
