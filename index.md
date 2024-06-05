@@ -51,7 +51,7 @@
 
 - **プロジェクト**: 自社サービスの booost GX の開発
 - **業務内容**  
-  フロントエンド、API の開発、DB 設計, Vue.js2 系から 3 系へのバージョンアップと TypeScript 導入をリード
+  フロントエンド、API の開発、詳細設計、DB設計、コードレビュー, Vue.js2 系から 3 系へのバージョンアップと TypeScript 導入をリード
 - **使用技術**: PHP(Laravel), jQuery, Vue.js, Git, Docker, TypeScript, MySQL,AWS
 - **チーム規模**: 全 10 名
 
@@ -65,7 +65,7 @@
 
 - 精神病院向け電子カルテ開発
 - **業務内容**  
-  フロントエンド、API の開発、DB 設計
+  フロントエンド、API の開発、DB 設計、コードレビュー
 - **使用技術**: PHP(Laravel), Nuxt.js, Next.js Git, Docker, TypeScript, Storybook, MySQL,AWS
 - **チーム規模**: 5 名
 
