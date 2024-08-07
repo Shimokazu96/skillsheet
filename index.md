@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-- 氏名: 下岡　和彦
+- 氏名: 下岡 和彦
 - 性別: 男
 - 年齢: 28 歳
 - 住所: 大阪府
@@ -11,23 +11,23 @@
 
 ### 言語
 
-- PHP
-- JavaScript
-- TypeScript
-- HTML
-- CSS
+- PHP（3 年）
+- JavaScript（3 年）
+- TypeScript（3 年）
+- HTML（3 年）
+- CSS（3 年）
 
 ### フレームワーク、Middleware、Hardware
 
-- Laravel
-- Vue.js
-- Nuxt.js
-- React
-- Next.js
-- Storybook
-- Docker
-- MySQL
-- MariaDB
+- Laravel（3 年）
+- Vue.js（3 年）
+- Nuxt.js（1 年）
+- React（2 年）
+- Next.js（1 年）
+- Storybook（1 年）
+- Docker（3 年）
+- MySQL（3 年）
+- GraphQL（半年）
 
 ### その他
 
@@ -41,7 +41,7 @@
 
 ## 職務経歴
 
-### 2022/11 - 現在 : booost technologies 株式会社
+### 2022/11 - 現在: booost technologies 株式会社
 
 #### 役職
 
@@ -50,12 +50,13 @@
 #### 職務内容
 
 - **プロジェクト**: 自社サービスの booost GX の開発
-- **業務内容**  
-  フロントエンド、API の開発、詳細設計、DB設計、コードレビュー, Vue.js2 系から 3 系へのバージョンアップと TypeScript 導入をリード
-- **使用技術**: PHP(Laravel), jQuery, Vue.js, Git, Docker, TypeScript, MySQL,AWS
-- **チーム規模**: 全 10 名
+- **業務内容**:  
+  フロントエンド、バックエンドの開発、詳細設計、DB 設計、コードレビュー  
+  Vue.js2 系から 3 系へのバージョンアップと TypeScript 導入をリード
+- **使用技術**: PHP(Laravel), jQuery, Vue.js, Docker, TypeScript, MySQL, AWS
+- **チーム規模**: 15 名
 
-### 2023/6 - 2023/12 : 株式会社 ispec
+### 2023/6 - 現在: 株式会社 ispec
 
 #### 役職
 
@@ -63,11 +64,17 @@
 
 #### 職務内容
 
-- 精神病院向け電子カルテ開発
-- **業務内容**  
+- 精神病院向け電子カルテ開発 (2023 年 6 月〜 12 月)
+- **業務内容**:  
   フロントエンド、API の開発、DB 設計、コードレビュー
-- **使用技術**: PHP(Laravel), Nuxt.js, Next.js Git, Docker, TypeScript, Storybook, MySQL,AWS
+- **使用技術**: PHP(Laravel), Nuxt.js, Next.js, Docker, TypeScript, MySQL
 - **チーム規模**: 5 名
+
+- 成育環境情報一元管理システム (2024 年 1 月〜 現在)
+- **業務内容**:  
+  フロントエンドの開発、フロントエンドのコードレビュー
+- **使用技術**: Next.js, TypeScript, Storybook, Tailwind.css, GraphQL
+- **チーム規模**: 7 名
 
 ### 2021/02 - 2022/10: ファーストネットジャパン株式会社
 
@@ -78,12 +85,12 @@
 #### 職務内容
 
 - **プロジェクト**:
-  - タスク管理システム (2022 年 8 月〜10 月): 設計からリリースまで一人で担当
-  - 美術館検索サイト (2022 年 3 月〜7 月): DB 設計、開発
-  - 介護施設検索サイト (2021 年 12 月〜2022 年 3 月): DB 設計、開発
-  - メールフォーム作成ツール (2021 年 5 月〜12 月): DB 設計、開発、テスト
-  - 医療機器メーカーサイト (2021 年 2 月〜5 月): データベース設計、開発
-- **使用技術**: Material UI, React, TypeScript, Laravel, Docker, GitHub, MySQL, Tailwind, Nuxt.js, EC-CUBE, GitHub Actions, HTML, CSS, Bootstrap, JavaScript, Vue.js, jQuery
+  - ホテルスタッフ向けタスク管理システム (2022 年 8 月〜 10 月): 設計からリリースまで一人で担当
+  - 美術館検索サイト (2022 年 3 月〜 7 月): DB 設計、開発
+  - 介護施設検索サイト (2021 年 12 月〜 2022 年 3 月): DB 設計、開発
+  - メールフォーム作成ツール (2021 年 5 月〜 12 月): DB 設計、開発、テスト
+  - 医療機器メーカーサイト (2021 年 2 月〜 5 月): データベース設計、開発
+- **使用技術**: Material UI, React, TypeScript, Laravel, Docker, GitHub, MySQL, Tailwind.css, Nuxt.js, EC-CUBE, GitHub Actions, HTML, CSS, Bootstrap, JavaScript, Vue.js, jQuery
 - **チーム規模**: 1〜2 名
 
 <div style="page-break-before:always"></div>
@@ -97,31 +104,16 @@
 #### 職務内容
 
 - **プロジェクト**: 美容マッチングサイトの新規開発
-- **業務内容**  
+- **業務内容**:  
   詳細設計、データベース設計、開発  
   ログイン認証の設計、開発
 - **使用技術**: HTML, CSS, Tailwind, Vue.js, PHP, Laravel, MySQL, Nginx, AWS, GitHub, Docker
 - **チーム規模**: 4 名
 
-### 2019/11 - 2021/1: ティー・エス・ビー株式会社
+### 営業職の経験
 
-#### 役職
-
-- 営業職
-
-#### 職務内容
-
-基板の法人営業
-
-### 2018/4 - 2019/9: コニカミノルタジャパン株式会社
-
-#### 役職
-
-- 営業総合職
-
-#### 職務内容
-
-病院、クリニック向けの医療機器の販売営業
+- 基板の法人営業（ティー・エス・ビー株式会社、2019/11 - 2021/1）
+- 病院、クリニック向けの医療機器の販売営業（コニカミノルタジャパン株式会社、2018/4 - 2019/9）
 
 <div style="page-break-before:always"></div>
 
@@ -142,10 +134,6 @@
 3. GitHub Actions の採用
 4. Vue.js2 系から 3 系へのバージョンアップ
 5. TypeScript の導入
-
-【相手の立場に立ったコミュニケーション】  
-営業職として 3 年間、多くのお客様と接してきました。営業時代はただ商品を提案するのではなく、お客様の考えや施設の運用に合った商品を提案することを心掛けてきました  
-また事前にお客様が抱えていると思われる課題や問題点を事前に想定し、仮説を立てて提案することで、お客様の方から悩みや本音を話したくなる環境を作れるように努めてきました
 
 ### 技術ブログ
 
