@@ -73,8 +73,11 @@
 - 成育環境情報一元管理システム (2024 年 1 月〜 現在)
 - **業務内容**:  
   フロントエンドの開発、フロントエンドのコードレビュー
-- **使用技術**: Next.js, TypeScript, Storybook, Tailwind.css, GraphQL
+- **使用技術**: Next.js, TypeScript, Storybook, Tailwind CSS, GraphQL
 - **チーム規模**: 7 名
+
+
+<div style="page-break-before:always"></div>
 
 ### 2021/02 - 2022/10: ファーストネットジャパン株式会社
 
@@ -90,10 +93,8 @@
   - 介護施設検索サイト (2021 年 12 月〜 2022 年 3 月): DB 設計、開発
   - メールフォーム作成ツール (2021 年 5 月〜 12 月): DB 設計、開発、テスト
   - 医療機器メーカーサイト (2021 年 2 月〜 5 月): データベース設計、開発
-- **使用技術**: Material UI, React, TypeScript, Laravel, Docker, GitHub, MySQL, Tailwind.css, Nuxt.js, EC-CUBE, GitHub Actions, HTML, CSS, Bootstrap, JavaScript, Vue.js, jQuery
+- **使用技術**: Material UI, React, TypeScript, Laravel, Docker, GitHub, MySQL, Tailwind CSS, Nuxt.js, EC-CUBE, GitHub Actions, HTML, CSS, Bootstrap, JavaScript, Vue.js, jQuery
 - **チーム規模**: 1〜2 名
-
-<div style="page-break-before:always"></div>
 
 ### 2021/10 - 2022/12: 株式会社 DX Strategy
 
@@ -107,7 +108,7 @@
 - **業務内容**:  
   詳細設計、データベース設計、開発  
   ログイン認証の設計、開発
-- **使用技術**: HTML, CSS, Tailwind, Vue.js, PHP, Laravel, MySQL, Nginx, AWS, GitHub, Docker
+- **使用技術**: HTML, CSS, Tailwind CSS, Vue.js, PHP, Laravel, MySQL, Nginx, AWS, GitHub, Docker
 - **チーム規模**: 4 名
 
 ### 営業職の経験
